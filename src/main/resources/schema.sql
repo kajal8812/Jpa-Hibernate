@@ -1,0 +1,1 @@
+create table t1(sno number(10) not null,name varchar2(10),primary key(sno));

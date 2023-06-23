@@ -1,0 +1,4 @@
+insert into t1 values(1,'sona')
+select * from t1;
+
+delete from t1 where sno=1;
